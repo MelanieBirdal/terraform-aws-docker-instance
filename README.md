@@ -4,6 +4,8 @@ Not intended for production use. It is an example module.
 
 It is just for showing how to create a publish module in Terraform Registry.
 
+**This is an edit to reame file to test publishing new module to the terraform registry.
+
 Usage:
 '''
 provider "aws" {
